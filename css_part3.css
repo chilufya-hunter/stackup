@@ -1,0 +1,15 @@
+.box-one{
+width: 150px;
+height: 50px;
+background-color:#DF9C9C ;
+padding: 5px;
+margin: 10px;
+}
+
+.box-two{
+width: 150px;
+height: 50px;
+background-color: #9CB7DF;
+padding: 10px;
+margin: 50px;
+ }
